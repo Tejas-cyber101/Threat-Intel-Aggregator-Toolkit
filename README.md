@@ -11,7 +11,16 @@ This toolkit is designed to automate the collection and correlation of Indicator
 - **Visual Analytics:** Produces a dashboard showing the distribution of identified threats.
 
 ## 🛠️ Installation & Usage
+
+Run :- python aggregator.py
+
+📊 Outputs
+
+- blocklist_ips.txt: High-risk IP addresses ready for Firewall/IDS import.
+- final_threat_report.json: Detailed technical summary of all correlated intelligence.
+- ti_dashboard.png: Visual distribution of IOC types.!
+
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Tejas-cyber101/Threat-Intel-Aggregator-Toolkit]
-   (https://github.com/Tejas-cyber101/Threat-Intel-Aggregator-Toolkit)
+   git clone [https://github.com/Tejas-cyber101/Threat-Intel-Aggregator-Toolkit.git]
+   (https://github.com/Tejas-cyber101/Threat-Intel-Aggregator-Toolkit.git)
