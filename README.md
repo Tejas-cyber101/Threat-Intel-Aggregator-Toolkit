@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This toolkit is designed to automate the collection and correlation of Indicators of Compromise (IOCs). It fetches live data from open-source intelligence (OSINT) providers, standardizes the formats, and identifies high-risk threats seen across multiple sources.
 
-## 🚀 Key Features (Based on Project Documentation)
+## 🚀 Key Features
 - **Multi-Source Ingestion:** Fetches live feeds from Emerging Threats, Binary Defense, and Abuse.ch.
 - **Data Normalization:** Automatically parses and validates IPs, Domains, and MD5 Hashes using Regex.
 - **Correlation Engine:** Identifies high-priority threats by finding matches across different feeds.
